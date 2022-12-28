@@ -1,0 +1,2 @@
+def luntaisb:
+	return 1 
