@@ -1,2 +1,2 @@
 def luntaisb:
-	return 1 
+	return 'Jun Yang Sha Bi' 
